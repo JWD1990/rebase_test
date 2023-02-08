@@ -12,8 +12,14 @@ def print_hi(name):
 
     return b * 2 + 20
 
+
+def print_hi222(name):
+    pass
+
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
