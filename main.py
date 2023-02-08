@@ -10,6 +10,8 @@ def print_hi(name):
     a = a + 10
     b = a / 10
 
+    return b * 2 + 20
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
