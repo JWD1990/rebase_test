@@ -6,7 +6,9 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-
+    a = 0
+    a = a + 10
+    b = a / 10
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
